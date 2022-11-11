@@ -7,7 +7,7 @@ subtitle: Universidad Iberoamericana, Ciudad de México
 profile:
   align: right
   image: prof_pic.jpg
-  image_cicular: false # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>Contact: luis.zuniga at correo.uia.mx</p>
 
