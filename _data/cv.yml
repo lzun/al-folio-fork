@@ -33,11 +33,12 @@
   contents:
     - title: Adjunct Professor
       institution: Department of Engineering Studies For Innovation, Universidad Iberoamericana
-      year: 2022
+      year: 2022-2023
       description:
-        - Technology Trends -  Current trends in business intelligence areas, mainly students related to business administration.
-        - Data Intelligence - Advanced Machine Learning methods, Actuarial Science.
-        - Machine Learning - Introduction to Machine Learning, Actuarial Science.
+        - Technology Trends - Business Administration, Accounting, Marketing
+        - Data Intelligence - Actuarial Sciences.
+        - Machine Learning - Actuarial Sciences.
+        - Selected Topics of Information Systems - Actuarial Sciences.
         # - title: Description 3.
         #  contents:
         #    - Sub-description 1.
@@ -75,7 +76,7 @@
       year: 2021-2022
       description: Project aimed to analyze the overseas image of Mexico via tweets and news headlines. Data Scientist in charge for data recollection, processing and building learning models.
     - title: Phishing Detection
-      year: 2022
+      year: 2022-2023
       description: Project aimed to build novel phishing detection models. NLP consultant.
 
 # - title: Open Source Projects
