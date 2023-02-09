@@ -5,7 +5,7 @@ title: teaching
 description: Materials for students.
 nav: true
 nav_order: 4
-dropdown: true
+dropdown: false
 children: 
     - title: Machine Learning
       permalink: /teaching/2_teaching
