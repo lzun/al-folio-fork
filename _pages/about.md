@@ -9,14 +9,14 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>Contact: luis.zuniga at correo.uia.mx</p>
+    <p>Contact: luis.zuniga at correo uia mx</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Welcome to my personal website! Here you can learn a little about myself, my current projects, and more. Also, this website hosts academic resources (in Spanish) for the courses I had the pleasure to teach. Useful for past and future students! 
+Welcome to my website! Here you can learn a little about myself, like current projects, publications, and more. Also, this website hosts academic resources (in Spanish) for the courses I had the opportunity to teach. Useful for past and future students! 
 
 I am a PhD student at Universidad Iberoamericana Ciudad de México under the guidance of Dr. Jorge Ángel González Ordiano, Dr. José Emilio Quiroz Ibarra, and Dr. Steve Simske. The research project is named *Multimodal Sentiment Analysis on Digital Social Networks*.
 
