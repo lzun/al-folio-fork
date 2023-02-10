@@ -40,7 +40,7 @@ Materiales para el curso de **Machine Learning** del programa de **Actuaría** e
 - [Introducción a Redes Neuronales]({{ site.url }}/downloads/ml/Redes-Neuronales.pdf)
 - [Back Propagation]({{ site.url }}/downloads/ml/redes-neuronales-backpropagation.pdf)
 - [Redes Neuronales: Conceptos Básicos en Keras, Funciones de Activación y Más]({{ site.url }}/downloads/ml/neural_networks_keras.pdf)
-- [Entrenamiento de Redes Neuronales: Consideraciones Prácticas y Problemas durante el Entrenar]({{ site.url }}/downloads/ml/neural_networks_training.pdf)
+- [Entrenamiento de Redes Neuronales: Consideraciones Prácticas y Problemas durante el Entrenamiento]({{ site.url }}/downloads/ml/neural_networks_training.pdf)
 
 #### Entrenamiento de Modelos
 - [Entrenando Modelos: Identificación de Sesgo/Varianza Alta, Parámetros de Regularización, Validación Cruzada y Curvas de Aprendizaje.]({{ site.url }}/downloads/ml/aplicacion-de-modelos-de-ML.pdf)
