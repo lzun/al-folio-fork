@@ -45,6 +45,6 @@ Materiales para el curso de **Machine Learning** del programa de **Actuaría** e
 #### Entrenamiento de Modelos
 - [Entrenando Modelos: Identificación de Sesgo/Varianza Alta, Parámetros de Regularización, Validación Cruzada y Curvas de Aprendizaje.]({{ site.url }}/downloads/ml/aplicacion-de-modelos-de-ML.pdf)
 
-#### Aprendizaje No Supervisado
-- [Aprendizaje no Supervisado y K-Means]({{ site.url }}/downloads/ml/Aprendizaje-No-Supervisado.pdf)
-- [Reducción de Dimensionalidad - pca]({{ site.url }}/downloads/ml/Reduccion-de-Dimensionalidad.pdf)
+### Aprendizaje No Supervisado
+- [Aprendizaje no Supervisado, Clústering y K-Means]({{ site.url }}/downloads/ml/Aprendizaje-No-Supervisado.pdf)
+- [Reducción de Dimensionalidad - PCA]({{ site.url }}/downloads/ml/Reduccion-de-Dimensionalidad.pdf)

@@ -15,7 +15,11 @@ Materiales para el curso de **Inteligencia de Datos** del programa de **Actuarí
 
 ## Material del Curso
 
-- [Syllabus - Otoño 2022]({{ site.url }}/lzun/downloads/id/GEP-Inteligencia-de-Datos-Alumnos.pdf)
+- [Syllabus - Otoño 2022]({{ site.url }}/downloads/id/GEP-Inteligencia-de-Datos-Alumnos.pdf)
+
+### Introducción
+- [Introducción y Bienvenida]({{ site.url }}/downloads/id/Inteligencia_de_Datos_Intro.pdf)
+- [Repaso de Machine Learning]({{ site.url }}/downloads/id/machine-learning-repaso.pdf)
 
 ### Máquinas de Vectores de Soporte
 
@@ -28,7 +32,7 @@ Materiales para el curso de **Inteligencia de Datos** del programa de **Actuarí
 
 ### Ensemble Learning
 
-- [Notas - Ensemble Learning]({{ site.url }}/lzun/downloads/id/ensemble_learning_notas.pdf)
+- [Notas - Ensemble Learning]({{ site.url }}/downloads/id/ensemble_learning_notas.pdf)
 - [Idea Principal y Voting Classifiers (Clasificadores Votantes)]({{ site.url }}/downloads/id/ensemble_learning_voting_classifier.pdf)
 - [Bagging y Pasting]({{ site.url }}/downloads/id/ensemble_learning_bagging_pasting.pdf)
 - [Boosting y AdaBoost]({{ site.url }}/downloads/id/ensemble_learning_boosting_adaboost.pdf)
