@@ -27,7 +27,7 @@ Materiales para el curso de **Machine Learning** del programa de **Actuaría** e
 - [Regresión Lineal Multivariable]({{ site.url }}/downloads/ml/regresion-lineal-multivariada.pdf)
 - [Gradiente Descendiente]({{ site.url }}/downloads/ml/gradiente_descendiente.pdf)
 - [Regresión Logística]({{ site.url }}/downloads/ml/regresion-logistica.pdf)
-- [Idea de Regularización, Aplicación en Modelos de Regresión]({{ site.url }}/lzun/downloads/ml/Regularizacion.pdf)
+- [Idea de Regularización, Aplicación en Modelos de Regresión]({{ site.url }}/downloads/ml/Regularizacion.pdf)
 
 #### Evaluación de Modelos de Aprendizaje Supervisado
 - [Métricas de Evaluación para Regresión]({{ site.url }}/downloads/ml/metricas-evaluacion-regresion.pdf)

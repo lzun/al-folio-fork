@@ -30,6 +30,10 @@ Materiales para el curso de **Inteligencia de Datos** del programa de **Actuarí
 - [Máquinas de Vectores de Soporte: Truco del Kernel]({{ site.url }}/downloads/id/svm_presentacion_kernel_trick.pdf)
 - [Máquinas de Vectores de Soporte: Clasificación Multiclase]({{ site.url }}/downloads/id/svm_presentacion_clasificacion_multiclase.pdf)
 
+### Árboles de Decisión
+
+- [Árboles de decisión para modelos de clasificación]({{ site.url }}/downloads/id/arboles-de-decision.pdf)
+
 ### Ensemble Learning
 
 - [Notas - Ensemble Learning]({{ site.url }}/downloads/id/ensemble_learning_notas.pdf)
