@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master of Computer Science
+    - title: Master in Computer Science
       institution: Center for Computing Research, IPN, Mexico City, Mexico
       year: 2017
       description:
@@ -21,7 +21,7 @@
         #  contents:
         #    - Sub-description 1.
         #    - Sub-description 2.
-    - title: Mathematical Engineer
+    - title: Mathematical Engineering
       institution: National Polithecnic Institute, Mexico City, Mexico
       year: 2014
       #description:
@@ -33,12 +33,39 @@
   contents:
     - title: Adjunct Professor
       institution: Department of Engineering Studies For Innovation, Universidad Iberoamericana
-      year: 2022-2023
+      year: 2023 Spring
+      description:
+        - Data Intelligence - Actuarial Sciences.
+        - Selected Topics on Information Systems - Actuarial Sciences.
+        # - title: Description 3.
+        #  contents:
+        #    - Sub-description 1.
+        #    - Sub-description 2.
+    - title: Adjunct Professor
+      institution: Department of Engineering Studies For Innovation, Universidad Iberoamericana
+      year: 2022 Autumn
+      description:
+        - Data Intelligence - Actuarial Sciences.
+        - Machine Learning - Actuarial Sciences.
+        # - title: Description 3.
+        #  contents:
+        #    - Sub-description 1.
+        #    - Sub-description 2.
+    - title: Adjunct Professor
+      institution: Department of Engineering Studies For Innovation, Universidad Iberoamericana
+      year: 2022 Summer
+      description:
+        - Technologic Trends - Business Administration, Commerce, Hospitality.
+        # - title: Description 3.
+        #  contents:
+        #    - Sub-description 1.
+        #    - Sub-description 2.
+    - title: Adjunct Professor
+      institution: Department of Engineering Studies For Innovation, Universidad Iberoamericana
+      year: 2022 Spring
       description:
         - Technologic Trends - Business Administration, Accounting, Marketing.
         - Data Intelligence - Actuarial Sciences.
-        - Machine Learning - Actuarial Sciences.
-        - Selected Topics of Information Systems - Actuarial Sciences.
         # - title: Description 3.
         #  contents:
         #    - Sub-description 1.
@@ -54,7 +81,6 @@
       description:
         - Twitter analysis app based on the Twitter API featuring network analysis, social media mediation tools, data mining, natural language processing, and data analysis.
         - Data mining and analysis for a Covid-19 social network sentiment analysis focused in Mexico since the pandemic started. Article submitted and accepted at COMIA 21. Publication pending.
-        - Currently working with Dr. César Villanueva Rivas in project <i>Imagen México</i> at Universidad Iberoamericana.
         - Multiple freelance projects with local business.
     #- title: Director
     #  institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
