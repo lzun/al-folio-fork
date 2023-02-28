@@ -7,7 +7,7 @@ importance: 1
 category: Actuaría
 ---
 
-Materiales para el curso de **Inteligencia de Datos** del programa de **Actuaría** en la **Universidad Iberoamericana Ciudad de México** periodo Otoño 2022. El material se actualiza constantemente, por lo que algunas versiones de las presentaciones pueden ser más nuevas o más viejas. 
+Materiales para el curso de **Inteligencia de Datos** del programa de **Actuaría** en la **Universidad Iberoamericana Ciudad de México**. El material se actualiza de forma regular, por lo que algunas versiones de las presentaciones pueden ser más nuevas o más viejas. 
 
 > Todo el material que se encuentra en esta página se encuentra bajo una licencia de [Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es). Al descargar cualquier contenido de esta página, se reconoce y se acepta inmediatamente la licencia antes mencionada. Toda persona es bienvenida a descargar el material educativo si así lo desea.
 
@@ -40,6 +40,8 @@ Materiales para el curso de **Inteligencia de Datos** del programa de **Actuarí
 - [Idea Principal y Voting Classifiers (Clasificadores Votantes)]({{ site.url }}/downloads/id/ensemble_learning_voting_classifier.pdf)
 - [Bagging y Pasting]({{ site.url }}/downloads/id/ensemble_learning_bagging_pasting.pdf)
 - [Boosting y AdaBoost]({{ site.url }}/downloads/id/ensemble_learning_boosting_adaboost.pdf)
+- [Descomposición en Sesgo y Varianza]({{ site.url }}/downloads/id/ensemble_learning_bias_variance.pdf)
+- [Bosques Aleatorios y Ensambles de Árboles]({{ site.url }}/downloads/id/Ensambles-de-arboles.pdf)
 
 ### Proyecto de Ciencia de Datos
 - [Ciclo de Vida de un Proyecto de Ciencia de Datos]({{ site.url }}/downloads/id/ensemble_learning_boosting_adaboost.pdf)
