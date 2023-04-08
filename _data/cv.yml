@@ -37,9 +37,9 @@
       description:
         - Data Intelligence - Actuarial Sciences.
         - Selected Topics on Information Systems - Actuarial Sciences.
-        - title: Postgraduate Instructor
-        contents:
-          - Social Network Analysis module instructor for the Big Data Analytics professional program.
+        # - title: Postgraduate Instructor
+        # contents:
+        #   - Social Network Analysis module instructor for the Big Data Analytics professional program.
         - title: Description 3.
          contents:
            - Sub-description 1.
