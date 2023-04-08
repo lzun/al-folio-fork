@@ -44,4 +44,4 @@ Materiales para el curso de **Inteligencia de Datos** del programa de **Actuarí
 - [Bosques Aleatorios y Ensambles de Árboles]({{ site.url }}/downloads/id/Ensambles-de-arboles.pdf)
 
 ### Proyecto de Ciencia de Datos
-- [Ciclo de Vida de un Proyecto de Ciencia de Datos]({{ site.url }}/downloads/id/ensemble_learning_boosting_adaboost.pdf)
+- [Ciclo de Vida de un Proyecto de Ciencia de Datos]({{ site.url }}/downloads/id/ciclo_de_vida_proyecto_ciencia_datos.pdf)

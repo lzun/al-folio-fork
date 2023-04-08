@@ -15,18 +15,19 @@ Materiales para el curso de **Temas Selectos de Sistemas de Información** del p
 
 ## Material del Curso
 
-- [Syllabus - Otoño 2022]({{ site.url }}/downloads/ml/GEP-Est-Machine-Learning.pdf)
+- [Syllabus - Otoño 2022]({{ site.url }}/downloads/io/GEP-E-Temas-Selectos-Sistemas-Informacion.pdf)
+- [Bienvenida al curso]({{ site.url }}/downloads/io/Bienvenida-TSSI.pdf)
 
 ### Investigación de Operaciones
 
-- [Introducción a la investigación de operaciones I]
-- [Introducción a la investigación de operaciones II]
-- [Método Símplex I: Introducción]
-- [Metodo Símplex II: Consideraciones adicionales]
+- [Introducción a la investigación de operaciones I]({{ site.url }}/downloads/io/introduccion_a_la_programacion_lineal_1.pdf)
+- [Introducción a la investigación de operaciones II]({{ site.url }}/downloads/io/introduccion_a_la_programacion_lineal_2.pdf)
+- [Método Símplex I: Introducción]{{ site.url }}/downloads/io/metodo_simplex_1a_parte.pdf)
+- [Metodo Símplex II: Consideraciones adicionales]{{ site.url }}/downloads/io/metodo_simplex_2a_parte.pdf)
  - Empate de variables (entrantes, salientes)
  - Restricciones del tipo igualdad
  - Método de la gran M
-- [Método Simplex III: Consideraciones adicionales]
+- [Método Simplex III: Consideraciones adicionales]{{ site.url }}/downloads/io/metodo_simplex_3a_parte.pdf)
  - Restricciones del tipo mayor o igual
  - Lados derechos negativos
  - Variables son y sin cota inferior
