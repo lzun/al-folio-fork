@@ -24,11 +24,11 @@ Materiales para el curso de **Temas Selectos de Sistemas de Información** del p
 - [Introducción a la investigación de operaciones II]({{ site.url }}/downloads/io/introduccion_a_la_programacion_lineal_2.pdf)
 - [Método Símplex I: Introducción]({{ site.url }}/downloads/io/metodo_simplex_1a_parte.pdf)
 - [Metodo Símplex II: Consideraciones adicionales]({{ site.url }}/downloads/io/metodo_simplex_2a_parte.pdf)
- - Empate de variables (entrantes, salientes)
- - Restricciones del tipo igualdad
- - Método de la gran M
+    - Empate de variables (entrantes, salientes)
+    - Restricciones del tipo igualdad
+    - Método de la gran M
 - [Método Simplex III: Consideraciones adicionales]({{ site.url }}/downloads/io/metodo_simplex_3a_parte.pdf)
- - Restricciones del tipo mayor o igual
- - Lados derechos negativos
- - Variables son y sin cota inferior
- - Método de las dos fases
+    - Restricciones del tipo mayor o igual
+    - Lados derechos negativos
+    - Variables son y sin cota inferior
+    - Método de las dos fases
