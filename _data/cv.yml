@@ -2,7 +2,7 @@
   type: map
   contents:
     - name: Full Name
-      value: Luis Norberto Zúñiga Morales
+      value: Luis Norberto Zuñiga Morales
     - name: Date of Birth
       value: 24th September 1992
     - name: Languages
@@ -106,12 +106,12 @@
 #       year: 2015-now
 #       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - Department award for teaching performance
 #         - Matteucci Medal
 #     - year: 2029
 #       items: 
