@@ -35,6 +35,13 @@
       institution: Department of Engineering Studies For Innovation, Universidad Iberoamericana
       year: 2023 Spring
       description:
+        - Machine Learning - Actuarial Sciences.
+        - Algorithms and Programming Workshop - Industrial Engineering, Commerce.
+        - Image Processing Laboratory
+    - title: Adjunct Professor
+      institution: Department of Engineering Studies For Innovation, Universidad Iberoamericana
+      year: 2023 Spring
+      description:
         - Data Intelligence - Actuarial Sciences.
         - Selected Topics on Information Systems - Actuarial Sciences.
         # - title: Postgraduate Instructor
@@ -74,7 +81,7 @@
       year: 2017-2023
       description:
         - Twitter analysis app based on the Twitter API featuring network analysis, social media mediation tools, data mining, natural language processing, and data analysis.
-        - Data mining and analysis for a Covid-19 social network sentiment analysis focused in Mexico since the pandemic started. Article submitted and accepted at COMIA 21. Publication pending.
+        - Data mining and analysis for a Covid-19 social network sentiment analysis focused in Mexico since the pandemic started. Article submitted and accepted at COMIA 21.
         - Multiple freelance projects with local business.
     #- title: Director
     #  institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
@@ -92,12 +99,21 @@
 - title: Projects
   type: time_table
   contents:
-    - title: Imagen Mexico Project
-      year: 2021-2022
-      description: Project aimed to analyze the overseas image of Mexico via tweets and news headlines. Data Scientist in charge for data recollection, processing and building learning models.
     - title: Phishing Detection
       year: 2022-2023
       description: Project aimed to build novel phishing detection models. NLP consultant.
+    - title: Opinion mining for electoral preference modeling
+      year: 2023
+      description: Part-time data collector.
+    - title: 8M on Twitter
+      year: 2023
+      description: Social network analysis and data collector of 2023 International Women’s Day movement on Twitter in collaboration with Ph. D. 
+    - title: Imagen Mexico Project
+      year: 2021-2022
+      description: Project aimed to analyze the overseas image of Mexico via tweets and news headlines. Data Scientist in charge for data recollection, processing and building learning models.
+    - title: Data Mining of Mining in Latin America
+      year: 2022
+      description: Project aimed to study the environmental impact of mining activities in Latin America as reported in alternative news media. Part-time data collector and annotator.
 
 # - title: Open Source Projects
 #   type: time_table
@@ -127,14 +143,14 @@
     - title: Natural Language Processing
       items:
         - Build resources in Spanish
-        - Word embedding models
+        - Transformer-based models
     - title: Machine Learning
       items:
         - Imbalanced Classification
         - Support Vector Machines
     - title: Deep Learning
       items:
-        - Language Models (Transformer)
+        - Hybrid Models (Transformer)
     - title: Social Network Analysis
       items:
         - Network Science applied to digital social networks

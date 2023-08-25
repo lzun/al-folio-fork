@@ -15,7 +15,7 @@ Materiales para el curso de **Machine Learning** del programa de **Actuaría** e
 
 ## Material del Curso
 
-- [Syllabus - Otoño 2022]({{ site.url }}/downloads/ml/GEP-Est-Machine-Learning.pdf)
+- [Syllabus - Otoño 2023]({{ site.url }}/downloads/ml/GEP-Est-Machine-Learning-23.pdf)
 
 ### ¿Qué es el Machine Learning?
 
@@ -24,10 +24,10 @@ Materiales para el curso de **Machine Learning** del programa de **Actuaría** e
 ### Aprendizaje Supervisado
 #### Primeros Modelos: Regresión y un Truco para Clasificación
 - [Regresión Lineal Simple]({{ site.url }}/downloads/ml/regresion-lineal-simple.pdf)
-- [Regresión Lineal Multivariable]({{ site.url }}/downloads/ml/regresion-lineal-multivariada.pdf)
 - [Gradiente Descendiente]({{ site.url }}/downloads/ml/gradiente_descendiente.pdf)
+- [Regresión Lineal Multivariable]({{ site.url }}/downloads/ml/regresion-lineal-multivariada.pdf)
 - [Regresión Logística]({{ site.url }}/downloads/ml/regresion-logistica.pdf)
-- [Idea de Regularización, Aplicación en Modelos de Regresión]({{ site.url }}/downloads/ml/Regularizacion.pdf)
+- [Idea Principal de la Regularización y Aplicación en Modelos de Regresión]({{ site.url }}/downloads/ml/Regularizacion.pdf)
 
 #### Evaluación de Modelos de Aprendizaje Supervisado
 - [Métricas de Evaluación para Regresión]({{ site.url }}/downloads/ml/metricas-evaluacion-regresion.pdf)
@@ -43,8 +43,14 @@ Materiales para el curso de **Machine Learning** del programa de **Actuaría** e
 - [Entrenamiento de Redes Neuronales: Consideraciones Prácticas y Problemas durante el Entrenamiento]({{ site.url }}/downloads/ml/neural_networks_training.pdf)
 
 #### Entrenamiento de Modelos
-- [Entrenando Modelos: Identificación de Sesgo/Varianza Alta, Parámetros de Regularización, Validación Cruzada y Curvas de Aprendizaje.]({{ site.url }}/downloads/ml/aplicacion-de-modelos-de-ML.pdf)
+- [Entrenando Modelos: Identificación de Sesgo/Varianza Alta, Parámetros de Regularización, Validación Cruzada y Curvas de Aprendizaje]({{ site.url }}/downloads/ml/aplicacion-de-modelos-de-ML.pdf)
 
 ### Aprendizaje No Supervisado
-- [Aprendizaje no Supervisado, Clústering y K-Means]({{ site.url }}/downloads/ml/Aprendizaje-No-Supervisado.pdf)
+- [Aprendizaje No Supervisado, Clústering y K-Means]({{ site.url }}/downloads/ml/Aprendizaje-No-Supervisado.pdf)
 - [Reducción de Dimensionalidad - PCA]({{ site.url }}/downloads/ml/Reduccion-de-Dimensionalidad.pdf)
+
+---
+
+## Material Pasado
+
+- [Syllabus - Otoño 2022]({{ site.url }}/downloads/ml/GEP-Est-Machine-Learning-22.pdf)
