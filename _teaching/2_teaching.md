@@ -7,7 +7,7 @@ importance: 1
 category: Actuaría
 ---
 
-Materiales para el curso de **Machine Learning** del programa de **Actuaría** en la **Universidad Iberoamericana Ciudad de México**. El material se actualiza de forma regular, por lo que algunas versiones de las presentaciones pueden ser más nuevas o más viejas. 
+Materiales para el curso de **Machine Learning** del programa de **Actuaría** en la **Universidad Iberoamericana Ciudad de México**. El material se actualiza de forma irregular, por lo que algunas versiones de las presentaciones pueden ser más nuevas o más viejas. 
 
 > Todo el material que se encuentra en esta página se encuentra bajo una licencia de [Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es). Al descargar cualquier contenido de esta página, se reconoce y se acepta inmediatamente la licencia antes mencionada. Toda persona es bienvenida a descargar el material educativo si así lo desea.
 

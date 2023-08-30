@@ -7,7 +7,7 @@ importance: 1
 category: Actuaría
 ---
 
-Materiales para el curso de **Temas Selectos de Sistemas de Información** del programa de **Actuaría** en la **Universidad Iberoamericana Ciudad de México**. El material se actualiza de forma regular, por lo que algunas versiones de las presentaciones pueden ser más nuevas o más viejas. 
+Materiales para el curso de **Temas Selectos de Sistemas de Información** del programa de **Actuaría** en la **Universidad Iberoamericana Ciudad de México**. El material se actualiza de forma irregular, por lo que algunas versiones de las presentaciones pueden ser más nuevas o más viejas. 
 
 > Todo el material que se encuentra en esta página se encuentra bajo una licencia de [Creative Commons Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es). Al descargar cualquier contenido de esta página, se reconoce y se acepta inmediatamente la licencia antes mencionada. Toda persona es bienvenida a descargar el material educativo si así lo desea.
 
@@ -30,5 +30,7 @@ Materiales para el curso de **Temas Selectos de Sistemas de Información** del p
 - [Método Simplex III: Consideraciones adicionales]({{ site.url }}/downloads/io/metodo_simplex_3a_parte.pdf)
     - Restricciones del tipo mayor o igual
     - Lados derechos negativos
-    - Variables son y sin cota inferior
+    - Variables con y sin cota inferior
     - Método de las dos fases
+- [Teoría del Método Símplex]({{ site.url }}/downloads/io/teoria_metodo_simplex.pdf)
+- [Problema de Asignación y Transporte]({{ site.url }}/downloads/io/Problema_de_transporte_asignacion.pdf)
