@@ -34,7 +34,7 @@ Materiales para el curso de **Machine Learning** del programa de **Actuaría** e
 - [Métricas de Evaluación para Clasificación]({{ site.url }}/downloads/ml/medDesemp.pdf)
 
 #### k Vecinos Más Cercanos
-- [k Vecinos Más Cercanos]({{ site.url }}/downloads/ml/knn.pdf)
+- [k Vecinos Más Cercanos]({{ site.url }}/downloads/ml/kNN.pdf)
 
 #### Naïve Bayes
 - [Naïve Bayes]({{ site.url }}/downloads/ml/bayes-ingenuo.pdf)
