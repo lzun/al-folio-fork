@@ -47,6 +47,7 @@ Materiales para el curso de **Machine Learning** del programa de **Actuaría** e
 
 #### Entrenamiento de Modelos
 - [Entrenando Modelos: Identificación de Sesgo/Varianza Alta, Parámetros de Regularización, Validación Cruzada y Curvas de Aprendizaje]({{ site.url }}/downloads/ml/aplicacion-de-modelos-de-ML.pdf)
+- [Ten simple rules for reporting machine learning methods implementation and evaluation on biomedical data](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ima.22674)
 
 ### Aprendizaje No Supervisado
 - [Aprendizaje No Supervisado, Clústering y K-Means]({{ site.url }}/downloads/ml/Aprendizaje-No-Supervisado.pdf)
