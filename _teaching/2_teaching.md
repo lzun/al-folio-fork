@@ -42,6 +42,7 @@ Materiales para el curso de **Machine Learning** del programa de **Actuaría** e
 #### Redes Neuronales
 - [Introducción a Redes Neuronales]({{ site.url }}/downloads/ml/Redes-Neuronales.pdf)
 - [Back Propagation]({{ site.url }}/downloads/ml/redes-neuronales-backpropagation.pdf)
+- [Blog sobre back propagation: *A Step by Step Backpropagation Example*](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 - [Redes Neuronales: Conceptos Básicos en Keras, Funciones de Activación y Más]({{ site.url }}/downloads/ml/neural_networks_keras.pdf)
 - [Entrenamiento de Redes Neuronales: Consideraciones Prácticas y Problemas durante el Entrenamiento]({{ site.url }}/downloads/ml/neural_networks_training.pdf)
 
