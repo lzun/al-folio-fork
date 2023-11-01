@@ -19,7 +19,7 @@ Materiales para el curso de **Machine Learning** del programa de **Actuaría** e
 
 ### ¿Qué es el Machine Learning?
 
-- [Machine Learning, Componentes del Aprendizaje, Tipos de Aprendizaje]({{ site.url }}/downloads/ml/machine-learning.pdf)
+- [Machine Learning, Componentes del Aprendizaje y Tipos de Aprendizaje]({{ site.url }}/downloads/ml/machine-learning.pdf)
 
 ### Aprendizaje Supervisado
 #### Primeros Modelos: Regresión y un Truco para Clasificación
@@ -44,7 +44,7 @@ Materiales para el curso de **Machine Learning** del programa de **Actuaría** e
 - [Back Propagation]({{ site.url }}/downloads/ml/redes-neuronales-backpropagation.pdf)
 - [Blog sobre back propagation: *A Step by Step Backpropagation Example*](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 - [Redes Neuronales: Conceptos Básicos en Keras, Funciones de Activación y Más]({{ site.url }}/downloads/ml/neural_networks_keras.pdf)
-- [Entrenamiento de Redes Neuronales: Consideraciones Prácticas y Problemas durante el Entrenamiento]({{ site.url }}/downloads/ml/neural_networks_training.pdf)
+- [Entrenamiento de Redes Neuronales: Consideraciones Prácticas y Problemas Durante el Entrenamiento]({{ site.url }}/downloads/ml/neural_networks_training.pdf)
 
 #### Entrenamiento de Modelos
 - [Entrenando Modelos: Identificación de Sesgo/Varianza Alta, Parámetros de Regularización, Validación Cruzada y Curvas de Aprendizaje]({{ site.url }}/downloads/ml/aplicacion-de-modelos-de-ML.pdf)
