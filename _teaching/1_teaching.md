@@ -15,7 +15,7 @@ Materiales para el curso de **Inteligencia de Datos** del programa de **Actuarí
 
 ## Material del Curso
 
-- [Syllabus - Primavera 2023]({{ site.url }}/downloads/id/GEP-Inteligencia-de-Datos-Alumnos.pdf)
+- [Syllabus - Primavera 2023]({{ site.url }}/downloads/id/GEP-Inteligencia-de-Datos-p24.pdf)
 
 ### Introducción
 - [Introducción y bienvenida]({{ site.url }}/downloads/id/Inteligencia_de_Datos_Intro.pdf)

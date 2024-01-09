@@ -15,7 +15,7 @@ Materiales para el curso de **Machine Learning** del programa de **Actuaría** e
 
 ## Material del Curso
 
-- [Syllabus - Otoño 2023]({{ site.url }}/downloads/ml/GEP-Est-Machine-Learning-23.pdf)
+- [Syllabus - Primavera 2024]({{ site.url }}/downloads/ml/GEP-Est-Machine-Learning-p24.pdf)
 
 ### ¿Qué es el Machine Learning?
 
@@ -61,4 +61,5 @@ Materiales para el curso de **Machine Learning** del programa de **Actuaría** e
 
 ## Material Pasado
 
+- [Syllabus - Otoño 2023]({{ site.url }}/downloads/ml/GEP-Est-Machine-Learning-23.pdf)
 - [Syllabus - Otoño 2022]({{ site.url }}/downloads/ml/GEP-Est-Machine-Learning-22.pdf)
