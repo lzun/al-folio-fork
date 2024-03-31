@@ -43,8 +43,20 @@ Materiales para el curso de **Machine Learning** del programa de **Actuaría** e
 - [Introducción a redes neuronales]({{ site.url }}/downloads/ml/Redes-Neuronales.pdf)
 - [Back propagation]({{ site.url }}/downloads/ml/redes-neuronales-backpropagation.pdf)
 - [Blog sobre back propagation: *A Step by Step Backpropagation Example*](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
-- [Redes neuronales: conceptos básicos en Keras, distintas funciones de activación y más]({{ site.url }}/downloads/ml/neural_networks_keras.pdf)
-- [Entrenamiento de redes neuronales: consideraciones prácticas y problemas durante el entrenamiento]({{ site.url }}/downloads/ml/neural_networks_training.pdf)
+- [Entrenamiento básico de redes neuronales con keras]({{ site.url }}/downloads/ml/neural_networks_keras.pdf)
+- [Entrenamiento de redes neuronales profundas]({{ site.url }}/downloads/ml/neural_networks_training.pdf)
+	- Problema de desvanecimiento de gradiente
+		- Funciones de activación no saturantes
+		- Inicialización de pesos
+	- Learning rate scheduling
+	- Optimizadores más rápidos
+		- Momentum optimization
+		- Nesterov Accelerated Gradient
+		- AdaGrad
+		- RMSProp
+		- Adam
+	- Regularización de redes neuronales
+		- Dropout
 
 #### Entrenamiento de Modelos
 - [Entrenando modelos: identificación de sesgo/varianza alta, parámetros de regularización, validación cruzada y curvas de aprendizaje]({{ site.url }}/downloads/ml/aplicacion-de-modelos-de-ML.pdf)

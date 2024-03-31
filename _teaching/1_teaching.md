@@ -43,5 +43,12 @@ Materiales para el curso de **Inteligencia de Datos** del programa de **Actuarí
 - [Descomposición en sesgo y varianza]({{ site.url }}/downloads/id/ensemble_learning_bias_variance.pdf)
 - [Bosques aleatorios y ensambles de árboles]({{ site.url }}/downloads/id/Ensambles-de-arboles.pdf)
 
-### Proyecto de Ciencia de Datos
+### Ciclo de Vida de un Proyecto de Ciencia de Datos
 - [Ciclo de vida de un proyecto de ciencia de datos]({{ site.url }}/downloads/id/ciclo_de_vida_proyecto_ciencia_datos.pdf)
+
+### Patrones de Diseño en Machine Learning
+
+- [Introducción a los patrones de diseño y patrones de representacion de datos]({{ site.url }}/downloads/id/Intro-Patrones-de-Diseño-ML.pdf)
+- [Patrones de representacion de problemas]({{ site.url }}/downloads/id/Patrones-de-Diseño-en-Machine-Learning-Representación.pdf)
+- [Patrones de entrenamiento de modelos]({{ site.url }}/Patrones-de-Diseño-en-Machine-Learning-Entrenamiento.pdf)
+
