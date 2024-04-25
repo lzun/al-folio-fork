@@ -15,7 +15,7 @@ Materiales para el curso de **Inteligencia de Datos** del programa de **Actuarí
 
 ## Material del Curso
 
-- [Syllabus - Primavera 2023]({{ site.url }}/downloads/id/GEP-Inteligencia-de-Datos-p24.pdf)
+- [Syllabus - Primavera 2024]({{ site.url }}/downloads/id/GEP-Inteligencia-de-Datos-p24.pdf)
 
 ### Introducción
 - [Introducción y bienvenida]({{ site.url }}/downloads/id/Inteligencia_de_Datos_Intro.pdf)
@@ -51,4 +51,3 @@ Materiales para el curso de **Inteligencia de Datos** del programa de **Actuarí
 - [Introducción a los patrones de diseño y patrones de representacion de datos]({{ site.url }}/downloads/id/Intro-Patrones-de-Diseño-ML.pdf)
 - [Patrones de representacion de problemas]({{ site.url }}/downloads/id/Patrones-de-Diseño-en-Machine-Learning-Representación.pdf)
 - [Patrones de entrenamiento de modelos]({{ site.url }}/Patrones-de-Diseño-en-Machine-Learning-Entrenamiento.pdf)
-

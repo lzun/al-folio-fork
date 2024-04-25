@@ -66,7 +66,7 @@ Materiales para el curso de **Machine Learning** del programa de **Actuaría** e
 - [Aprendizaje no Supervisado, clústering y k-means]({{ site.url }}/downloads/ml/Aprendizaje-No-Supervisado.pdf)
 - [Reducción de dimensionalidad: PCA]({{ site.url }}/downloads/ml/Reduccion-de-Dimensionalidad.pdf)
 
-### Machine Learning - Segunda Visita
+### Análisis de Machine Learning
 - [Machine Learning - segunda visita]({{ site.url }}/downloads/ml/machine-learning-2a-visita.pdf)
 
 ---
